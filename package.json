@@ -1,0 +1,14 @@
+{
+  "name": "learning-phaser-examples",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "http-server src"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
